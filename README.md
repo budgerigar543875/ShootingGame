@@ -9,26 +9,53 @@
 ![ゲーム画面](docs/images/stage.png)
 
 ### 自機
-
-|  |  |
-|:-----------|:---------|
-| ![自機1](docs/images/player.png) | スペースキー押下で弾を発射<br>Aキー押下でオート連射（再度Aキー押下で解除）<br>矢印キーで移動 |
-| ![自機2](docs/images/shot.png) | 通常弾 |
-| ![自機3](docs/images/Piercing.png) | 貫通弾 |
+<table>
+    <tr>
+        <td><img src="docs/images/player.png"/></td>
+        <td>スペースキー押下で弾を発射<br>Aキー押下でオート連射（再度Aキー押下で解除）<br>矢印キーで移動</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/shot.png"/></td>
+        <td>通常弾</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/Piercing.png"/></td>
+        <td>貫通弾</td>
+    </tr>
+</table>
 
 ### 敵機
-
-|  |  |
-|:-----------|:---------|
-| ![敵機1](docs/images/enemy1.png) | 1発当てると撃破可能<br>ステージが進むと耐久力UP |
-| ![敵機2](docs/images/enemy2.png) | 2発当てると撃破可能<br>ステージが進むと耐久力UP |
-| ![敵機3](docs/images/enemy3.png) | 3発当てると撃破可能<br>ステージが進むと耐久力UP |
-| ![敵機4](docs/images/enemy4.png) | 撃破不能な敵<br>自機で体当たりすると撃破可能 |
+<table>
+    <tr>
+        <td><img src="docs/images/enemy1.png"/></td>
+        <td>1発当てると撃破可能<br>ステージが進むと耐久力UP</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/enemy2.png"/></td>
+        <td>2発当てると撃破可能<br>ステージが進むと耐久力UP</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/enemy3.png"/></td>
+        <td>3発当てると撃破可能<br>ステージが進むと耐久力UP</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/enemy4.png"/></td>
+        <td>撃破不能な敵<br>自機で体当たりすると撃破可能</td>
+    </tr>
+</table>
 
 ### アイテム
-
-|  |  |
-|:-----------|:---------|
-| ![アイテム1](docs/images/portion.png) | エネルギーを1つ回復する |
-| ![アイテム2](docs/images/ramen.png) | 同時発射弾数が増える<br>同時発射の最大は9発 |
-| ![アイテム3](docs/images/fire.png) |100発分貫通弾を発射できる<br>残弾有りで取得した場合は現在の残弾に+100 |
+<table>
+    <tr>
+        <td><img src="docs/images/portion.png"/></td>
+        <td>エネルギーを1つ回復する</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/ramen.png"/></td>
+        <td>同時発射弾数が増える<br>同時発射の最大は9発</td>
+    </tr>
+    <tr>
+        <td><img src="docs/images/fire.png"/></td>
+        <td>100発分貫通弾を発射できる<br>残弾有りで取得した場合は現在の残弾に+100</td>
+    </tr>
+</table>
