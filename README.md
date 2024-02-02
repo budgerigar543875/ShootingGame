@@ -6,6 +6,8 @@
 
 一定時間経過でステージクリアとなり無限にループする
 
+プレイは[こちら](https://budgerigar543875.github.io/ShootingGame/)
+
 ![ゲーム画面](docs/images/stage.png)
 
 ### 自機
